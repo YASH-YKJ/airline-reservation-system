@@ -145,20 +145,4 @@ Pull requests are welcome! For major changes, open an issue first to discuss.
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
-```
-
----
-
-👉 This file (`README.md`) includes **everything in one place**:  
-- Setup  
-- SQL schema  
-- Instructions  
-- Features  
-- Future scope  
-
-Would you like me to also **generate the `database.sql` file separately** so you can just keep it in repo and link it in README?
-```
