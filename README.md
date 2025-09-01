@@ -1,6 +1,4 @@
-Got it 👍 You want a **single complete `README.md` file** that has everything: setup guide, SQL schema, how to run, screenshots section placeholder, etc. Here’s the full version you can directly upload as `README.md` to GitHub:
 
-```markdown
 # ✈️ Flight Booking System
 
 A simple Flight Booking System built using **Python (tkinter / ttkbootstrap)** and **MySQL**.  
